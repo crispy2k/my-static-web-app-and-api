@@ -1,0 +1,1 @@
+{"ast":null,"code":"export * from './product';","map":{"version":3,"mappings":"AAAA,cAAc,WAAW","names":[],"sourceRoot":"","sources":["/home/unixadmin/repos/personal/github/my-static-web-app-and-api/angular-app/src/app/core/model/index.ts"],"sourcesContent":["export * from './product';\n"]},"metadata":{},"sourceType":"module","externalDependencies":[]}
